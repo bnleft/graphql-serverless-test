@@ -1,0 +1,14 @@
+{
+  "name": "graphql-serverless-test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vercel": "^34.1.1"
+  }
+}
